@@ -1,0 +1,6 @@
+outs:
+- md5: 28ea3addda8e2d7b3180d75894da69d5.dir
+  size: 640785434
+  nfiles: 2
+  hash: md5
+  path: row_fs_data

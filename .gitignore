@@ -4,3 +4,5 @@
 .env
 env
 dev_env
+/row_input_data
+/row_fs_data
