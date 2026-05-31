@@ -10,3 +10,5 @@ dev_env/
 *.txt
 test*
 temp*
+submissions/
+submission*
