@@ -10,3 +10,5 @@ dev_env
 *resume*
 Vijay_Takbhate_Resume_Working/
 __pycache__
+dep_env
+dep_requirements.txt
