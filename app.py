@@ -1,10 +1,7 @@
 import os
 import sys
-import io
 import pandas as pd
-import numpy as np
-from fastapi import FastAPI, HTTPException, File, UploadFile
-from fastapi.responses import StreamingResponse
+from fastapi import FastAPI, HTTPException
 from typing import Dict, Any, List
 import uvicorn
 
